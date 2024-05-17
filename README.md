@@ -1,2 +1,3 @@
 # BootcampJava
-Repositorio para o bootcamp de java Santander
+
+Este repositorio foi criado para as atividades propostas no bootcamp de Java da parceria da Dio com o Santander.
