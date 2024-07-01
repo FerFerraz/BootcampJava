@@ -21,12 +21,12 @@ public class ContaTerminal {
 		
 		System.out.println("Digite o nome do cliente");
 		String nomeCliente  = scanner.next();
-			
+		
+		scanner.close();
 		
 		System.out.println("Olá " + nomeCliente +  ", obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " + numConta +
 				" e seu saldo de R$ " + saldo + " já está disponível para saque!" );
-	
-		
+			
 	}
 
 }
